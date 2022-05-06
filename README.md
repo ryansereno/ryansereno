@@ -1,11 +1,12 @@
-### Hi there 👋
-
 
 <div align="center">
+
+<!--
+
 <span>
   <img src="tv.gif" width="100"/>
 </span>
-  <!--
+
   <span>
     <ul style="list-style:none;">
       <li style="list-style:none;">🔭 I’m currently working on ...</li>
