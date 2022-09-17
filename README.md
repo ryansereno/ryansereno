@@ -18,7 +18,7 @@
   </span>
 -->
 <span id="header" align="center">
-  <img src="flickerPC.gif" width="100"/>
+  <img src="computer.gif" width="100"/>
 </span>
 </div>
 
