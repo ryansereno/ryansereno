@@ -6,7 +6,7 @@
 <div align="center">
 
 <span id="header" align="center" >
-  <img src="monitor.gif" width="125"/>
+  <img src="computer.gif" width="100"/>
 </span>
 </div>
 
