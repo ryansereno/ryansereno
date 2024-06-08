@@ -10,6 +10,3 @@
 </span>
 </div>
 
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; bottom: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ryansereno/ryansereno/blob/main/727006-best-windows-xp-desktop-backgrounds-3840x2160.jpg?raw=true');]{x0000}$}
